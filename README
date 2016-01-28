@@ -1,0 +1,4 @@
+ljquant is a color quantization library that was lifted from the libjpeg-turbo
+project.
+
+It has been modified to make it suitable as a standalone library.
