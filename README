@@ -1,4 +1,6 @@
 ljquant is a color quantization library that was lifted from the libjpeg-turbo
-project.
+project, which was forked from libjpeg.
 
 It has been modified to make it suitable as a standalone library.
+
+The license is a BSD-like license.
